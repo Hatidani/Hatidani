@@ -55,6 +55,4 @@ I am a university student passionate about **bridging the gap between software a
   </a>
   
   <br/><br/>
-  <!-- Profile Views Counter -->
-  <img src="https://profile-counter.glitch.me/Hatidani/count.svg" alt="Profile Views" />
-</div>
+ 
