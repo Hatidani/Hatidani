@@ -23,6 +23,12 @@ I am a university student passionate about bridging the gap between software and
 * 📡 **IoT & Real-Time Monitoring:** Connecting physical devices to the web for data tracking and remote control.
 * 🤖 **Automation Logic & Sensor Interfacing:** Designing systems that react to their environment automatically.
 
+**What I am looking into:**
+* **Tensorflow**
+* **Pytorch**
+* **Android Development**
+
+
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hatidani-choto-1865bb292/)
