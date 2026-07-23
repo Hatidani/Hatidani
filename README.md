@@ -1,7 +1,3 @@
-<!-- Dynamic Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hi%20there,%20I'm%20Hatidani!%20%F0%9F%91%8B&fontSize=50&fontAlignY=35&desc=Aspiring%20Embedded%20Systems%20%26%20Automation%20Engineer&descAlignY=55&descAlign=50" alt="Hatidani Choto Banner" />
-</div>
 
 <!-- Typing Animation -->
 <div align="center">
@@ -49,16 +45,6 @@ I am a university student passionate about **bridging the gap between software a
 * 📡 **IoT & Real-Time Monitoring:** Connecting physical devices to the web for data tracking and remote control.
 * 🤖 **Automation Logic & Sensor Interfacing:** Designing systems that react to their environment automatically.
 
----
-
-### 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hatidani&show_icons=true&theme=tokyonight&hide_border=true&title_color=00979D" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hatidani&layout=compact&theme=tokyonight&hide_border=true&title_color=00979D" alt="Top Languages" width="48%" />
-</div>
-
-<br/>
 
 ### 📫 Let's Connect
 
